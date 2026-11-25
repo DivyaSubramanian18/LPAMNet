@@ -1,4 +1,6 @@
 # LPAMNet
+Objective: To achieve accurate and robust colorectal polyp segmentation by enhancing low-contrast regions and improving segmentation reliability under challenging image conditions.
+
 This repository contains the core implementation of LPAMNet, a fault-tolerant deep learning framework for colorectal polyp segmentation.
 
 The repository provides the implementation of the following proposed components:
