@@ -26,7 +26,7 @@ The PolypMS dataset is organized into separate training, validation, and testing
 
 **File:** `Full_Code.py`
 
-This file provides the complete implementation of the proposed LPAMNet framework and the associated experimental procedures. It includes the model architecture and its constituent modules, including Channel Attention, the complete loss function, data loading and preprocessing, training procedure, and evaluation methodology.
+This file provides the complete implementation of the proposed LPAMNet framework and the associated experimental procedures. It includes the model architecture and its constituent modules, the complete loss function, data loading and preprocessing, training procedure, and evaluation methodology.
 
 The implementation is provided to enable independent examination of the proposed architecture and reproduction of the experiments reported in the manuscript.
 
