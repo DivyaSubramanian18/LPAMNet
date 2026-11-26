@@ -5,7 +5,7 @@ Objective: To achieve accurate and robust colorectal polyp segmentation by enhan
 
 To facilitate transparency and reproducibility, we provide the dataset preparation procedure, the resulting dataset partitions, and the complete implementation of the proposed LPAMNet framework.
 
-### 1. Dataset Preparation and Leakage-Free Splitting
+### 1. Dataset Preparation 
 
 **File:** `Dataset_Split.py`
 
