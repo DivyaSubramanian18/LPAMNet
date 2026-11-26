@@ -9,8 +9,7 @@ To facilitate transparency and reproducibility, we provide the dataset preparati
 
 **File:** `Dataset_Split.py`
 
-This file describes the procedure used to combine the Kvasir-SEG and CVC datasets into a unified dataset. Duplicate and near-duplicate images are identified and handled before partitioning to minimize potential data leakage between the training, validation, and testing subsets.
-
+This file describes the procedure used to combine the Kvasir-SEG and CVC datasets into a unified dataset. 
 The resulting leakage-controlled dataset is saved as **PolypMS**, which contains the following three mutually exclusive partitions:
 
 | Dataset split | Number of images |
