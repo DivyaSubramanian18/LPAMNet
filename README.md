@@ -10,7 +10,7 @@ To facilitate transparency and reproducibility, we provide the dataset preparati
 **File:** `Dataset_Split.py`
 
 This file describes the procedure used to combine the Kvasir-SEG and CVC datasets into a unified dataset. 
-The resulting leakage-controlled dataset is saved as **PolypMS**, which contains the following three mutually exclusive partitions:
+The resulting dataset contains the following three partitions:
 
 | Dataset split | Number of images |
 |---|---:|
