@@ -8,7 +8,7 @@ from tqdm.auto import tqdm
 
 KVASIR_ROOT = Path("/input/datasets/kvasir/Kvasir-SEG")          
 CVC_ROOT    = Path("/input/datasets/cvcclinic/PNG")               
-OUT_ROOT    = Path("/input/datasets/PolypM")
+OUT_ROOT    = Path("/input/datasets/PolypMS")
 
 TRAIN_RATIO, VAL_RATIO, TEST_RATIO = 0.70, 0.15, 0.15
 SEED = 42
