@@ -30,6 +30,12 @@ This file provides the complete implementation of the proposed LPAMNet framework
 
 The implementation is provided to enable independent examination of the proposed architecture and reproduction of the experiments reported in the manuscript.
 
+### Pretrained Model Weights
+
+The best-performing LPAMNet checkpoint, selected based on validation performance, is provided through Google Drive because of its large file size, which exceeds the standard GitHub file upload limit.
+
+Download: https://drive.google.com/file/d/12BGeY0WN7CKHszwzc8AXXJHQn5GvhGOW/view?usp=sharing 
+
 ### Reproducibility
 
 The dataset preparation procedure, leakage-controlled PolypMS dataset partitions, and complete LPAMNet implementation are made publicly available to improve the transparency, accessibility, and reproducibility of the proposed approach.
